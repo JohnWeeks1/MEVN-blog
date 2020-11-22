@@ -1,0 +1,27 @@
+.DS_Store
+/node_modules
+/.idea
+/.vscode
+/client/node_modules
+package-lock.json
+/client/package-lock.json
+
+# local env files
+.env
+/client/.env.local
+/client/.env.*.local
+
+# Log files
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+/client/pnpm-debug.log*
+
+# Editor directories and files
+/client/.idea
+/client/.vscode
+/client/*.suo
+/client/*.ntvs*
+/client/*.njsproj
+/client/*.sln
+/client/*.sw?
